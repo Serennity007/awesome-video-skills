@@ -16,7 +16,7 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Skills](https://img.shields.io/badge/skills-10-blueviolet)](#skills)
+[![Skills](https://img.shields.io/badge/skills-11-blueviolet)](#skills)
 
 </div>
 
@@ -52,6 +52,7 @@
 | المهارة | الوصف | الملف |
 |-------|-------------|------|
 | 🎥 FFmpeg Master | قص، دمج، تحويل، ضغط — أتمتة كاملة لخط إنتاج FFmpeg | [`skills/视频剪辑/ffmpeg-master.md`](skills/视频剪辑/ffmpeg-master.md) |
+| 🤖 OrkasVideoStudio | إنتاج فيديو بقيادة الوكيل مع خط زمني `plan.json` قابل للتعديل | [`skills/视频剪辑/orkas-videostudio.md`](skills/视频剪辑/orkas-videostudio.md) |
 | 🎨 DaVinci Resolve | تصحيح الألوان، تأثيرات Fusion، صوت Fairlight، إعدادات التسليم | [`skills/视频剪辑/davinci-resolve.md`](skills/视频剪辑/davinci-resolve.md) |
 | 🎬 Premiere Pro | إعداد التسلسل، إعدادات التصدير، Dynamic Link، Essential Graphics | [`skills/视频剪辑/premiere-pro.md`](skills/视频剪辑/premiere-pro.md) |
 

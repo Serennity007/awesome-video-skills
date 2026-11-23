@@ -16,7 +16,7 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Skills](https://img.shields.io/badge/skills-10-blueviolet)](#skills)
+[![Skills](https://img.shields.io/badge/skills-11-blueviolet)](#skills)
 
 </div>
 
@@ -52,6 +52,7 @@ Escreva seu conhecimento de edição de vídeo como **habilidades de IA** uma ve
 | Habilidade | Descrição | Arquivo |
 |-------|-------------|------|
 | 🎥 FFmpeg Master | Cortar, mesclar, converter, comprimir — automação completa do pipeline FFmpeg | [`skills/视频剪辑/ffmpeg-master.md`](skills/视频剪辑/ffmpeg-master.md) |
+| 🤖 OrkasVideoStudio | Produção de vídeo orientada por agente com uma timeline `plan.json` editável | [`skills/视频剪辑/orkas-videostudio.md`](skills/视频剪辑/orkas-videostudio.md) |
 | 🎨 DaVinci Resolve | Correção de cor, VFX do Fusion, áudio Fairlight, predefinições de entrega | [`skills/视频剪辑/davinci-resolve.md`](skills/视频剪辑/davinci-resolve.md) |
 | 🎬 Premiere Pro | Configuração de sequência, predefinições de exportação, Dynamic Link, Essential Graphics | [`skills/视频剪辑/premiere-pro.md`](skills/视频剪辑/premiere-pro.md) |
 

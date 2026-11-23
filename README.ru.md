@@ -16,7 +16,7 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Skills](https://img.shields.io/badge/skills-10-blueviolet)](#skills)
+[![Skills](https://img.shields.io/badge/skills-11-blueviolet)](#skills)
 
 </div>
 
@@ -52,6 +52,7 @@
 | Навык | Описание | Файл |
 |-------|-------------|------|
 | 🎥 FFmpeg Master | Нарезка, объединение, конвертация, сжатие — полная автоматизация конвейера FFmpeg | [`skills/视频剪辑/ffmpeg-master.md`](skills/视频剪辑/ffmpeg-master.md) |
+| 🤖 OrkasVideoStudio | Видеопроизводство под управлением агента с редактируемым таймлайном `plan.json` | [`skills/视频剪辑/orkas-videostudio.md`](skills/视频剪辑/orkas-videostudio.md) |
 | 🎨 DaVinci Resolve | Цветокоррекция, Fusion VFX, аудио Fairlight, пресеты рендера | [`skills/视频剪辑/davinci-resolve.md`](skills/视频剪辑/davinci-resolve.md) |
 | 🎬 Premiere Pro | Настройка последовательности, пресеты экспорта, Dynamic Link, Essential Graphics | [`skills/视频剪辑/premiere-pro.md`](skills/视频剪辑/premiere-pro.md) |
 

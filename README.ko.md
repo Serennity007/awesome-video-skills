@@ -16,7 +16,7 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Skills](https://img.shields.io/badge/skills-10-blueviolet)](#skills)
+[![Skills](https://img.shields.io/badge/skills-11-blueviolet)](#skills)
 
 </div>
 
@@ -52,6 +52,7 @@
 | 스킬 | 설명 | 파일 |
 |-------|-------------|------|
 | 🎥 FFmpeg Master | 자르기, 병합, 변환, 압축 — FFmpeg 파이프라인 전체 자동화 | [`skills/视频剪辑/ffmpeg-master.md`](skills/视频剪辑/ffmpeg-master.md) |
+| 🤖 OrkasVideoStudio | 편집 가능한 `plan.json` 타임라인 기반 에이전트 주도 영상 제작 | [`skills/视频剪辑/orkas-videostudio.md`](skills/视频剪辑/orkas-videostudio.md) |
 | 🎨 DaVinci Resolve | 색 보정, Fusion VFX, Fairlight 오디오, 내보내기 프리셋 | [`skills/视频剪辑/davinci-resolve.md`](skills/视频剪辑/davinci-resolve.md) |
 | 🎬 Premiere Pro | 시퀀스 설정, 내보내기 프리셋, Dynamic Link, Essential Graphics | [`skills/视频剪辑/premiere-pro.md`](skills/视频剪辑/premiere-pro.md) |
 

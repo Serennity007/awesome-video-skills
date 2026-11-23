@@ -16,7 +16,7 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Skills](https://img.shields.io/badge/skills-10-blueviolet)](#skills)
+[![Skills](https://img.shields.io/badge/skills-11-blueviolet)](#skills)
 
 </div>
 
@@ -52,6 +52,7 @@ Schreiben Sie Ihr Videobearbeitungswissen einmal als **KI-Skills**. Ihr KI-Assis
 | Skill | Beschreibung | Datei |
 |-------|-------------|------|
 | 🎥 FFmpeg Master | Schneiden, zusammenführen, konvertieren, komprimieren — vollständige FFmpeg-Pipeline-Automatisierung | [`skills/视频剪辑/ffmpeg-master.md`](skills/视频剪辑/ffmpeg-master.md) |
+| 🤖 OrkasVideoStudio | Agentengesteuerte Videoproduktion mit einer editierbaren `plan.json`-Timeline | [`skills/视频剪辑/orkas-videostudio.md`](skills/视频剪辑/orkas-videostudio.md) |
 | 🎨 DaVinci Resolve | Farbkorrektur, Fusion VFX, Fairlight Audio, Ausgabe-Voreinstellungen | [`skills/视频剪辑/davinci-resolve.md`](skills/视频剪辑/davinci-resolve.md) |
 | 🎬 Premiere Pro | Sequenzeinrichtung, Export-Voreinstellungen, Dynamic Link, Essential Graphics | [`skills/视频剪辑/premiere-pro.md`](skills/视频剪辑/premiere-pro.md) |
 

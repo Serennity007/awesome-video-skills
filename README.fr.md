@@ -16,7 +16,7 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Skills](https://img.shields.io/badge/skills-10-blueviolet)](#compétences)
+[![Skills](https://img.shields.io/badge/skills-11-blueviolet)](#compétences)
 
 </div>
 
@@ -52,6 +52,7 @@ Vous passez **des heures** à chercher les drapeaux FFmpeg, à consulter les rac
 | Compétence | Description | Fichier |
 |------------|-------------|---------|
 | 🎥 FFmpeg Master | Découpe, fusion, conversion, compression — automatisation complète du pipeline FFmpeg | [`skills/视频剪辑/ffmpeg-master.md`](skills/视频剪辑/ffmpeg-master.md) |
+| 🤖 OrkasVideoStudio | Production vidéo pilotée par un agent avec une timeline `plan.json` éditable | [`skills/视频剪辑/orkas-videostudio.md`](skills/视频剪辑/orkas-videostudio.md) |
 | 🎨 DaVinci Resolve | Étalonnage, VFX Fusion, audio Fairlight, présets de livraison | [`skills/视频剪辑/davinci-resolve.md`](skills/视频剪辑/davinci-resolve.md) |
 | 🎬 Premiere Pro | Configuration de séquence, présets d'export, Dynamic Link, Essential Graphics | [`skills/视频剪辑/premiere-pro.md`](skills/视频剪辑/premiere-pro.md) |
 

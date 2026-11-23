@@ -17,6 +17,7 @@
 | 分类 | 技能 | 说明 |
 |------|------|------|
 | 视频剪辑 | FFmpeg Master | 剪切、合并、转换、压缩 — 完整 FFmpeg 流水线自动化 |
+| 视频剪辑 | [OrkasVideoStudio](skills/视频剪辑/orkas-videostudio.md) | 智能体驱动的视频制作，使用可编辑的 `plan.json` 时间线 |
 | 视频剪辑 | DaVinci Resolve | 调色、Fusion 特效、Fairlight 音频、输出预设 |
 | 视频剪辑 | Premiere Pro | 序列设置、导出预设、Dynamic Link、Essential Graphics |
 | 特效制作 | Motion Graphics | After Effects 表达式、CSS 动画、Lottie 模板 |

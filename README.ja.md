@@ -16,7 +16,7 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Skills](https://img.shields.io/badge/skills-10-blueviolet)](#スキル)
+[![Skills](https://img.shields.io/badge/skills-11-blueviolet)](#スキル)
 
 </div>
 
@@ -52,6 +52,7 @@
 | スキル | 説明 | ファイル |
 |--------|------|---------|
 | 🎥 FFmpeg Master | カット、結合、変換、圧縮 — FFmpeg パイプラインの完全自動化 | [`skills/视频剪辑/ffmpeg-master.md`](skills/视频剪辑/ffmpeg-master.md) |
+| 🤖 OrkasVideoStudio | 編集可能な `plan.json` タイムラインによるエージェント駆動の動画制作 | [`skills/视频剪辑/orkas-videostudio.md`](skills/视频剪辑/orkas-videostudio.md) |
 | 🎨 DaVinci Resolve | カラーグレーディング、Fusion VFX、Fairlight オーディオ、デリバリー設定 | [`skills/视频剪辑/davinci-resolve.md`](skills/视频剪辑/davinci-resolve.md) |
 | 🎬 Premiere Pro | シーケンス設定、エクスプリセット、Dynamic Link、Essential Graphics | [`skills/视频剪辑/premiere-pro.md`](skills/视频剪辑/premiere-pro.md) |
 
