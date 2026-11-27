@@ -6,10 +6,18 @@ on:
   pull_request:
     branches: [main]
 
+# The workflow only needs to read the repository.
+permissions:
+  contents: read
+
 jobs:
   lint-markdown:
-    name: Lint Markdown
+    name: Lint Markdown (advisory)
     runs-on: ubuntu-latest
+    # Markdown style findings are advisory: they are reported in the job log but
+    # must not block CI. Remove `continue-on-error` once the existing findings
+    # are cleaned up, so that this becomes a hard gate.
+    continue-on-error: true
     steps:
       - uses: actions/checkout@v4
 
@@ -22,7 +30,7 @@ jobs:
         run: npm install -g markdownlint-cli
 
       - name: Lint all Markdown files
-        run: markdownlint '**/*.md' --ignore node_modules --config .markdownlint.json || true
+        run: markdownlint '**/*.md' --ignore node_modules --config .markdownlint.json
 
   validate-skills:
     name: Validate Skill Files
@@ -76,22 +84,22 @@ jobs:
           echo "All skill files have required sections."
 
   check-links:
-    name: Check Internal Links
+    name: Check Links
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
 
-      - name: Check README internal links
-        run: |
-          echo "Checking internal file references in README.md..."
-          FAILED=0
-          # Extract markdown links that point to local files
-          grep -oP '\[.*?\]\(\K[^)]+' README.md | grep -v '^http' | while read -r link; do
-            # Remove any anchor
-            file_path=$(echo "$link" | sed 's/#.*//')
-            if [ -n "$file_path" ] && [ ! -f "$file_path" ]; then
-              echo "BROKEN LINK: $link -> $file_path not found"
-              FAILED=1
-            fi
-          done
-          echo "Link check complete."
+      - name: Check Markdown links
+        uses: lycheeverse/lychee-action@v2
+        with:
+          # A broken link fails the job (no more `|| true` swallowing failures).
+          fail: true
+          jobSummary: true
+          args: >-
+            --no-progress
+            --max-retries 3
+            --retry-wait-time 2
+            --exclude 'localhost'
+            --exclude '127\.0\.0\.1'
+            --exclude 'example\.(com|org|net)'
+            './**/*.md'
