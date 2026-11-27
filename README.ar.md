@@ -16,7 +16,7 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Skills](https://img.shields.io/badge/skills-11-blueviolet)](#skills)
+[![Skills](https://img.shields.io/badge/skills-11-blueviolet)](#المهارات)
 
 </div>
 
@@ -152,13 +152,13 @@ cp skills/**/*.md .kimi/skills/
 - [awesome-skills](https://github.com/liangzhengtao/awesome-skills) — مجموعة منتقاة من مهارات الذكاء الاصطناعي لكل مجال
 - [awesome-ai-rules](https://github.com/liangzhengtao/awesome-ai-rules) — قواعد وتكوينات الذكاء الاصطناعي لمساعدي البرمجة
 - [vibe-check](https://github.com/liangzhengtao/vibe-check) — تحقق واختبر جودة مهارات الذكاء الاصطناعي الخاصة بك
-- [commit-ai](https://github.com/liangzhengtao/commit-ai) — إنشاء رسائل git commit بالذكاء الاصطناعي
+- [commit-ai](https://github.com/Serennity007/ai-commit) — إنشاء رسائل git commit بالذكاء الاصطناعي
 - [awesome-mcp-servers](https://github.com/liangzhengtao/awesome-mcp-servers) — خوادم Model Context Protocol لأدوات الذكاء الاصطناعي
 
 ---
 
 ## الترخيص
 
-[MIT](LICENSE) © [liangzhengtao](https://github.com/liangzhengtao)
+[MIT](LICENSE) © [liangzhengtao](https://github.com/Serennity007)
 
 ---

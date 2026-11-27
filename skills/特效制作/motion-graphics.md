@@ -299,7 +299,7 @@ result;
 ```
 
 ### Optimization
-- Use Lottie Optimizer: https://lottiefiles.com/optimization
+- Use Lottie Optimizer: https://lottiefiles.com/tools
 - Reduce unnecessary keyframes
 - Simplify complex paths
 - Target under 100KB for web animations

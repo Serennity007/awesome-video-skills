@@ -16,7 +16,7 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Skills](https://img.shields.io/badge/skills-11-blueviolet)](#skills)
+[![Skills](https://img.shields.io/badge/skills-11-blueviolet)](#habilidades)
 
 </div>
 
@@ -152,13 +152,13 @@ Forma rápida de contribuir:
 - [awesome-skills](https://github.com/liangzhengtao/awesome-skills) — Coleção curada de habilidades de IA para todos os domínios
 - [awesome-ai-rules](https://github.com/liangzhengtao/awesome-ai-rules) — Regras e configurações de IA para assistentes de código
 - [vibe-check](https://github.com/liangzhengtao/vibe-check) — Valide e teste a qualidade das suas habilidades de IA
-- [commit-ai](https://github.com/liangzhengtao/commit-ai) — Geração de mensagens de commit com IA
+- [commit-ai](https://github.com/Serennity007/ai-commit) — Geração de mensagens de commit com IA
 - [awesome-mcp-servers](https://github.com/liangzhengtao/awesome-mcp-servers) — Servidores Model Context Protocol para ferramentas de IA
 
 ---
 
 ## Licença
 
-[MIT](LICENSE) © [liangzhengtao](https://github.com/liangzhengtao)
+[MIT](LICENSE) © [liangzhengtao](https://github.com/Serennity007)
 
 ---

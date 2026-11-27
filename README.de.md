@@ -152,13 +152,13 @@ Schneller Weg zum Beitrag:
 - [awesome-skills](https://github.com/liangzhengtao/awesome-skills) — Kuratierte Sammlung von KI-Skills für jeden Bereich
 - [awesome-ai-rules](https://github.com/liangzhengtao/awesome-ai-rules) — KI-Regeln und -Konfigurationen für Coding-Assistenten
 - [vibe-check](https://github.com/liangzhengtao/vibe-check) — Überprüfen und testen Sie die Qualität Ihrer KI-Skills
-- [commit-ai](https://github.com/liangzhengtao/commit-ai) — KI-gesteuerte Git-Commit-Nachrichtengenerierung
+- [commit-ai](https://github.com/Serennity007/ai-commit) — KI-gesteuerte Git-Commit-Nachrichtengenerierung
 - [awesome-mcp-servers](https://github.com/liangzhengtao/awesome-mcp-servers) — Model Context Protocol Server für KI-Werkzeuge
 
 ---
 
 ## Lizenz
 
-[MIT](LICENSE) © [liangzhengtao](https://github.com/liangzhengtao)
+[MIT](LICENSE) © [liangzhengtao](https://github.com/Serennity007)
 
 ---

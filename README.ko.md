@@ -16,7 +16,7 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Skills](https://img.shields.io/badge/skills-11-blueviolet)](#skills)
+[![Skills](https://img.shields.io/badge/skills-11-blueviolet)](#스킬-목록)
 
 </div>
 
@@ -152,13 +152,13 @@ cp skills/**/*.md .kimi/skills/
 - [awesome-skills](https://github.com/liangzhengtao/awesome-skills) — 모든 분야의 AI 스킬 큐레이션 컬렉션
 - [awesome-ai-rules](https://github.com/liangzhengtao/awesome-ai-rules) — 코딩 어시스턴트용 AI 규칙 및 설정
 - [vibe-check](https://github.com/liangzhengtao/vibe-check) — AI 스킬 품질 검증 및 테스트
-- [commit-ai](https://github.com/liangzhengtao/commit-ai) — AI 기반 git 커밋 메시지 생성
+- [commit-ai](https://github.com/Serennity007/ai-commit) — AI 기반 git 커밋 메시지 생성
 - [awesome-mcp-servers](https://github.com/liangzhengtao/awesome-mcp-servers) — AI 도구를 위한 Model Context Protocol 서버
 
 ---
 
 ## 라이선스
 
-[MIT](LICENSE) © [liangzhengtao](https://github.com/liangzhengtao)
+[MIT](LICENSE) © [liangzhengtao](https://github.com/Serennity007)
 
 ---

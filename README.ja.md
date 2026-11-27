@@ -152,13 +152,13 @@ cp skills/**/*.md .kimi/skills/
 - [awesome-skills](https://github.com/liangzhengtao/awesome-skills) — 各分野の AI スキル精选コレクション
 - [awesome-ai-rules](https://github.com/liangzhengtao/awesome-ai-rules) — AI コーディングアシスタントのルールと設定
 - [vibe-check](https://github.com/liangzhengtao/vibe-check) — AI スキルの品質検証・テストツール
-- [commit-ai](https://github.com/liangzhengtao/commit-ai) — AI 駆動の Git コミットメッセージ生成
+- [commit-ai](https://github.com/Serennity007/ai-commit) — AI 駆動の Git コミットメッセージ生成
 - [awesome-mcp-servers](https://github.com/liangzhengtao/awesome-mcp-servers) — AI ツール向け Model Context Protocol サーバー
 
 ---
 
 ## ライセンス
 
-[MIT](LICENSE) © [liangzhengtao](https://github.com/liangzhengtao)
+[MIT](LICENSE) © [liangzhengtao](https://github.com/Serennity007)
 
 ---

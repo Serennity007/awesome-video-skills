@@ -151,13 +151,13 @@ Quick way to contribute:
 - [awesome-skills](https://github.com/liangzhengtao/awesome-skills) — Curated collection of AI skills for every domain
 - [awesome-ai-rules](https://github.com/liangzhengtao/awesome-ai-rules) — AI rules and configurations for coding assistants
 - [vibe-check](https://github.com/liangzhengtao/vibe-check) — Validate and test your AI skill quality
-- [commit-ai](https://github.com/liangzhengtao/commit-ai) — AI-powered git commit message generation
+- [commit-ai](https://github.com/Serennity007/ai-commit) — AI-powered git commit message generation
 - [awesome-mcp-servers](https://github.com/liangzhengtao/awesome-mcp-servers) — Model Context Protocol servers for AI tools
 
 ---
 
 ## License
 
-[MIT](LICENSE) © [liangzhengtao](https://github.com/liangzhengtao)
+[MIT](LICENSE) © [liangzhengtao](https://github.com/Serennity007)
 
 ---

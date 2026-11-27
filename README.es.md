@@ -152,13 +152,13 @@ Cómo contribuir:
 - [awesome-skills](https://github.com/liangzhengtao/awesome-skills) — Colección seleccionada de habilidades de IA para cada dominio
 - [awesome-ai-rules](https://github.com/liangzhengtao/awesome-ai-rules) — Reglas y configuraciones para asistentes de IA de programación
 - [vibe-check](https://github.com/liangzhengtao/vibe-check) — Validación y pruebas de calidad de habilidades de IA
-- [commit-ai](https://github.com/liangzhengtao/commit-ai) — Generación de mensajes de commit de Git con IA
+- [commit-ai](https://github.com/Serennity007/ai-commit) — Generación de mensajes de commit de Git con IA
 - [awesome-mcp-servers](https://github.com/liangzhengtao/awesome-mcp-servers) — Servidores Model Context Protocol para herramientas de IA
 
 ---
 
 ## Licencia
 
-[MIT](LICENSE) © [liangzhengtao](https://github.com/liangzhengtao)
+[MIT](LICENSE) © [liangzhengtao](https://github.com/Serennity007)
 
 ---

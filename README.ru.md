@@ -16,7 +16,7 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Skills](https://img.shields.io/badge/skills-11-blueviolet)](#skills)
+[![Skills](https://img.shields.io/badge/skills-11-blueviolet)](#навыки)
 
 </div>
 
@@ -152,13 +152,13 @@ cp skills/**/*.md .kimi/skills/
 - [awesome-skills](https://github.com/liangzhengtao/awesome-skills) — Кураторская коллекция ИИ-навыков для любой области
 - [awesome-ai-rules](https://github.com/liangzhengtao/awesome-ai-rules) — Правила и конфигурации ИИ для ассистентов программирования
 - [vibe-check](https://github.com/liangzhengtao/vibe-check) — Проверьте и протестируйте качество ваших ИИ-навыков
-- [commit-ai](https://github.com/liangzhengtao/commit-ai) — Генерация сообщений коммитов с помощью ИИ
+- [commit-ai](https://github.com/Serennity007/ai-commit) — Генерация сообщений коммитов с помощью ИИ
 - [awesome-mcp-servers](https://github.com/liangzhengtao/awesome-mcp-servers) — Серверы Model Context Protocol для инструментов ИИ
 
 ---
 
 ## Лицензия
 
-[MIT](LICENSE) © [liangzhengtao](https://github.com/liangzhengtao)
+[MIT](LICENSE) © [liangzhengtao](https://github.com/Serennity007)
 
 ---
